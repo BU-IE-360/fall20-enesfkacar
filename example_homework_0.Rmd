@@ -11,4 +11,10 @@ opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
 
     This example is important because it introduces the forecasting methodology using ARIMA models in R. The steps are ...
 
-2.
+2. [Predictive analytics for supporting manufacturing](https://mran.microsoft.com/posts/timeseries)
+
+3. [Goal-Based Forecasting in  R](https://towardsdatascience.com/goal-based-forecasting-in-prophet-r-b79900c64ca6)
+
+4. [Resampling Techniques](https://www.statisticshowto.com/resampling-techniques/)
+
+5. [Long memory time serires models](http://www.kybernetika.cz/content/1986/2/105/paper.pdf)
